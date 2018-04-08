@@ -97,29 +97,29 @@ $lang['pricing_largeInclude']   = '920px * 120px (+atenção vermelho)';
 $lang['pricing_perMonth']       = 'por mês';
 $lang['pricing_contactUs']      = 'Contactar-nos';
 // Search Site
-$lang['search_nameText']                = 'Name';
-$lang['search_typeHead']                = 'Type';
-$lang['search_resetText']               = 'Reset search';
-$lang['search_category']                = 'Category';
+$lang['search_nameText']                = 'Nome';
+$lang['search_typeHead']                = 'Tipo';
+$lang['search_resetText']               = 'Limpar pesquisa';
+$lang['search_category']                = 'Categoria';
 $lang['search_typeBoard']               = 'Board';
 $lang['search_typeBlog']                = 'Blog';
 $lang['search_typeWarez']               = 'Warez';
 $lang['search_typeVPN']                 = 'VPN';
-$lang['search_typeUseful']              = 'Useful';
-$lang['search_typeShop']                = 'Shop';
-$lang['search_typeHosting']             = 'Hosting';
+$lang['search_typeUseful']              = 'Útil';
+$lang['search_typeShop']                = 'Loja';
+$lang['search_typeHosting']             = 'Hospedagem';
 // Contact us Site
-$lang['contact_donateText']             = 'Donate, to keep this service alive :';
-$lang['contact_contactInformationText'] = 'Contact information:';
-$lang['contact_twitterFollow']          = 'Follow';
-$lang['contact_warningHeader']          = 'Warning!';
-$lang['contact_warningText']            = 'If you want to contact us, use <b>only</b> the shown contact informations on <b>this site</b> to avoid beeing scammed !';
+$lang['contact_donateText']             = 'Doar, para manter o serviço online :';
+$lang['contact_contactInformationText'] = 'Informação de contacto:';
+$lang['contact_twitterFollow']          = 'Seguir';
+$lang['contact_warningHeader']          = 'Aviso!';
+$lang['contact_warningText']            = 'Se quer contactar-nos, use <b>apenas</b> os contactos <b>deste site</b> para evitar ser aldrabado !';
 // Report Link Site
-$lang['report_headText']              = 'Report';
-$lang['report_sitename']              = 'Name';
+$lang['report_headText']              = 'Reportar';
+$lang['report_sitename']              = 'Nome';
 $lang['report_url']                   = 'URL';
-$lang['report_reason']                = 'Reason';
-$lang['report_reportBtn']             = 'Report link';
+$lang['report_reason']                = 'Razão';
+$lang['report_reportBtn']             = 'Reportar link';
 
 // Add Link Site
 $lang['add_url']                      = 'URL';
@@ -127,174 +127,174 @@ $lang['add_tor']                      = 'TOR URL';
 $lang['add_i2p']                      = 'I2P URL';
 $lang['add_facebook']                 = 'Facebook';
 $lang['add_twitter']                  = 'Twitter';
-$lang['add_category']                 = 'Category';
-$lang['add_languages']                = 'Language';
-$lang['add_pleaseSelect']             = 'Please select';
-$lang['add_information']              = 'Information';
-$lang['add_information_placeholder']  = 'Backup domains, contact informations, ... (max 200 chars)';
-$lang['add_addLink']                  = 'Add link';
-$lang['add_success_title']            = 'Success!';
-$lang['add_success_text']             = 'The link was added. Thanks for your help.';
-$lang['add_fail_title']               = 'Warning!';
-$lang['add_fail_text']                = 'There was an error. Please try again.';
+$lang['add_category']                 = 'Categoria';
+$lang['add_languages']                = 'Língua';
+$lang['add_pleaseSelect']             = 'Selecione se faz favor';
+$lang['add_information']              = 'Informação';
+$lang['add_information_placeholder']  = 'Dmonínios de backup, informação de contacto, ... (max 200 carateres)';
+$lang['add_addLink']                  = 'Adicionar link';
+$lang['add_success_title']            = 'Successo!';
+$lang['add_success_text']             = 'O link foi adicionado. Obrigado por ajudar.';
+$lang['add_fail_title']               = 'Aviso!';
+$lang['add_fail_text']                = 'Aconteceu um erro. Tente novamente.';
 // Hosting Site
 $lang['hosting_head']         = '';
-$lang['hosting_service']      = 'Service';
-$lang['hosting_creditcard']   = 'Creditcard';
-$lang['hosting_locations']    = 'Locations';
-$lang['hosting_infoTextHead']     = 'Information!';
-$lang['hosting_infoText']         = 'Norton explores the secret world of bulletproof hosting that’s hidden deep in underground bunkers,
-isolated at sea, and spread across the Web. Uncover the threats that lie within these services, such as botnets,
-malware, ransomware, and the black market, and learn how to protect yourself in "The Most Dangerous Town on the Internet - Where Cybercrime Goes to Hide"';
-$lang['hosting_infoStartVideo']     = 'Start Video';
+$lang['hosting_service']      = 'Serviço';
+$lang['hosting_creditcard']   = 'Cartões de crédito';
+$lang['hosting_locations']    = 'Localizações';
+$lang['hosting_infoTextHead']     = 'Informação!';
+$lang['hosting_infoText']         = 'Norton explora o mundo secreto da hospedagem à prova de bala que esconde os mais profundos em bunkers clandestinos,
+isolado no mar, e espalhado por toda a web. Descobre a informação que estão nestes serviços, por exemplo botnets,
+malware, ransomware, e mercados negros, e aprende a se proteger contra o "mais perigoso lugar na internet - Onde o Cybercrime esconde-se."';
+$lang['hosting_infoStartVideo']     = 'Começar Video';
 // Footer
-$lang['footer_generatedInStart'] = 'Page generated in ';
-$lang['footer_generatedInEnd']   = ' seconds.';
+$lang['footer_generatedInStart'] = 'Página gerada em ';
+$lang['footer_generatedInEnd']   = ' segundos.';
 // Language Category
-$lang['promoted']        = '&#10035;Promoted';
-$lang['partner']         = 'Partner';
-$lang['al']              = 'Albanian';
-$lang['ar']              = 'Arabic';
-$lang['az']              = 'Azerbaijan';
-$lang['bs']              = 'Bosnian';
-$lang['zh']              = 'Chinese';
-$lang['hr']              = 'Croatia';
-$lang['cz']              = 'Czech';
-$lang['da']              = 'Danish';
-$lang['nl']              = 'Dutch';
-$lang['en']              = 'English';
-$lang['fr']              = 'French';
+$lang['promoted']        = '&#10035;Promovido';
+$lang['partner']         = 'Parceiro';
+$lang['al']              = 'Albanês';
+$lang['ar']              = 'Arabe';
+$lang['az']              = 'Azerbajão';
+$lang['bs']              = 'Bosnia';
+$lang['zh']              = 'Chinês';
+$lang['hr']              = 'Croacia';
+$lang['cz']              = 'Checo';
+$lang['da']              = 'Dinamasquês';
+$lang['nl']              = 'Holandês';
+$lang['en']              = 'Inglês';
+$lang['fr']              = 'Francês';
 $lang['ge']              = 'Georgian';
-$lang['de']              = 'German';
-$lang['gr']              = 'Greek';
-$lang['id']              = 'Indonesian';
-$lang['it']              = 'Italian';
-$lang['jp']              = 'Japanese';
+$lang['de']              = 'Alemão';
+$lang['gr']              = 'Grego';
+$lang['id']              = 'Indonésio';
+$lang['it']              = 'Italiano';
+$lang['jp']              = 'Japonês';
 $lang['my']              = 'Malaysian';
-$lang['fas']             = 'Persian';
-$lang['pl']              = 'Polish';
-$lang['pt']              = 'Portuguese';
-$lang['ro']              = 'Romanian';
-$lang['ru']              = 'Russian';
+$lang['fas']             = 'Persa';
+$lang['pl']              = 'Polaco';
+$lang['pt']              = 'Português';
+$lang['ro']              = 'Romeno';
+$lang['ru']              = 'Russo';
 $lang['sr']              = 'Serbian';
-$lang['es']              = 'Spanish';
-$lang['th']              = 'Thai';
-$lang['tr']              = 'Turkish';
-$lang['ua']              = 'Ukrainian';
+$lang['es']              = 'Espanhol';
+$lang['th']              = 'Tailandês';
+$lang['tr']              = 'Turco';
+$lang['ua']              = 'Ukraniano';
 $lang['uz']              = 'Uzbek';
-$lang['vn']              = 'Vietnamese';
+$lang['vn']              = 'Vietnamita';
 // Shop Category
 $lang['shops_ccv']              = 'Ccv / Dumps';
-$lang['shops_accounts']         = 'Accounts';
+$lang['shops_accounts']         = 'Contas';
 $lang['shops_icq']              = 'ICQ';
-$lang['shops_drugs']            = 'Drugs';
+$lang['shops_drugs']            = 'Drugas';
 $lang['shops_rdp']              = 'Rdp / Smtp';
 $lang['shops_flood']            = 'Flood';
 $lang['shops_exploit']          = 'Exploit';
 $lang['shops_cccheck']          = 'CC Checker';
 $lang['shops_iptv']             = 'IPTV';
-$lang['shops_other']            = 'Other';
+$lang['shops_other']            = 'Outros';
 // Useful Category
-$lang['useful_vuln']            = 'Vulnerabilities';
-$lang['useful_unsorted']        = 'Unsorted';
+$lang['useful_vuln']            = 'Vulnerabilidades';
+$lang['useful_unsorted']        = 'Desorganizado';
 $lang['useful_ffaddons']        = 'Firefox Addons';
-$lang['useful_cryptography']    = 'Cryptography';
+$lang['useful_cryptography']    = 'Criptograpia';
 $lang['useful_scanner']         = 'Scanner';
 $lang['useful_antimalware']     = 'Anti Malware';
-$lang['useful_linklist']        = 'Linklists';
+$lang['useful_linklist']        = 'Lista de links';
 $lang['useful_multiuploader']   = 'Multiuploader';
 $lang['useful_exchanger']       = 'Exchanger';
-$lang['useful_trashmail']       = 'Trash Mail';
-$lang['useful_challenges']      = 'Challenges';
-$lang['useful_securemail']      = 'Secure Mail';
-$lang['useful_cardsharing']     = 'Cardsharing';
+$lang['useful_trashmail']       = 'Email de lixo';
+$lang['useful_challenges']      = 'Desafios';
+$lang['useful_securemail']      = 'Email Seguro';
+$lang['useful_cardsharing']     = 'Partilha de cartões';
 $lang['useful_toplist']         = 'Toplists';
 $lang['useful_nfo']             = 'NFO';
-$lang['useful_ddosprotect']     = 'DDoS Protection';
+$lang['useful_ddosprotect']     = 'Protecção DDoS';
 $lang['useful_cryptocurrency']  = 'Cryptocurrency';
-$lang['useful_documentation']   = 'Documentation';
-$lang['useful_linkcrypter']     = 'Linkcrypter';
-$lang['useful_startpage']       = 'Startpage';
-$lang['useful_telegramgrp']     = 'Telegram Groups';
-$lang['useful_uptimechecker']   = 'Uptime Checker';
+$lang['useful_documentation']   = 'Documentação';
+$lang['useful_linkcrypter']     = 'Encriptador de Links';
+$lang['useful_startpage']       = 'Página inicial';
+$lang['useful_telegramgrp']     = 'Groupos Telegram';
+$lang['useful_uptimechecker']   = 'Verificador de Uptime';
 $lang['useful_pastebin']        = 'Pastebin';
-$lang['useful_security']        = 'Security';
-$lang['useful_hackgame']        = 'Hack Game';
+$lang['useful_security']        = 'Segurança';
+$lang['useful_hackgame']        = 'Jogos Hack';
 // VPN Category
-$lang['vpn_paidvpn']            = 'Paid VPN';
+$lang['vpn_paidvpn']            = 'VPN Paga';
 $lang['vpn_vpninfo']            = 'VPN Info';
-$lang['vpn_freevpn']            = 'Free VPN';
+$lang['vpn_freevpn']            = 'VPN Grátis';
 $lang['vpn_socks']              = 'Socks';
 $lang['vpn_webproxy']           = 'Webproxy';
-$lang['vpn_checker']            = 'Checker';
+$lang['vpn_checker']            = 'Verificador';
 // Warez Category
 $lang['warez_boards']           = 'Boards';
 $lang['warez_anime']            = 'Anime / Hentai / Manga';
 $lang['warez_tvstream']         = 'TV Stream';
 $lang['warez_ftp']              = 'FTP / FXP';
-$lang['warez_documentation']    = 'Documentation';
+$lang['warez_documentation']    = 'Documentação';
 $lang['warez_ebook']            = 'Ebook';
 $lang['warez_xdcc']             = 'XDCC';
-$lang['warez_music']            = 'Music';
-$lang['warez_games']            = 'Games';
-$lang['warez_movies']           = 'Movies';
-$lang['warez_mixed']            = 'Mixed';
+$lang['warez_music']            = 'Musica';
+$lang['warez_games']            = 'Jogos';
+$lang['warez_movies']           = 'Filmes';
+$lang['warez_mixed']            = 'Misturados';
 $lang['warez_android']          = 'Android';
 $lang['warez_apple']            = 'Apple';
 $lang['warez_moviestreams']     = 'Movie Stream';
-$lang['warez_search']           = 'Search';
+$lang['warez_search']           = 'Procura';
 $lang['warez_porn']             = 'Porn';
 $lang['warez_usenet']           = 'NZB / Usenet';
 $lang['warez_scripts']          = 'Scripts';
 $lang['warez_torrent']          = 'Torrent';
 // Board Redirection Site
-$lang['out_home']               = 'Home';
-$lang['out_report']             = 'Report deadlink';
-$lang['out_voteForUs']          = 'Vote for us';
-$lang['out_vote']               = 'Vote';
-$lang['out_closeFrame']         = 'Close frame';
-$lang['out_redirectingTo']      = 'Redirecting to ';
-$lang['out_redirectingIn']      = ' in 20 seconds.';
-$lang['out_iframeText1']        = 'Your browser cannot show iframes:';
-$lang['out_iframeText2']        = 'Click here to open requested site:';
+$lang['out_home']               = 'Casa';
+$lang['out_report']             = 'Reportar link morto';
+$lang['out_voteForUs']          = 'Votar em nós';
+$lang['out_vote']               = 'Votar';
+$lang['out_closeFrame']         = 'Fechar frame';
+$lang['out_redirectingTo']      = 'Redirecionando para ';
+$lang['out_redirectingIn']      = ' em 20 segundos.';
+$lang['out_iframeText1']        = 'O seu navegador não permite mostrar iframes:';
+$lang['out_iframeText2']        = 'Clique aqui para abrir o site:';
 // FAQ site
-$lang['faq_head']                 = 'Frequently Asked Questions';
+$lang['faq_head']                 = 'Questões Frequentemente Perguntadas';
 // Link
 $lang['faq_menu_link']                            = 'Link';
-$lang['faq_menu_link_question_linkStatusColors']  = 'What are the meanings of the different link status colors?';
-$lang['faq_menu_link_answer_linkStatusColors']    = '<span class="fa fa-circle" style="color:green"></span> <font color="black">online (nonfraud)</font></p>
-<p><span class="fa fa-circle" style="color:green"></span> <font color="lightgrey">online </font>(fraud)</p>
-<p><span class="fa fa-circle" style="color:orange"></span> maintenance / back online soon</p>
+$lang['faq_menu_link_question_linkStatusColors']  = 'O que significa as diferents cores de estado?';
+$lang['faq_menu_link_answer_linkStatusColors']    = '<span class="fa fa-circle" style="color:green"></span> <font color="black">online (sem fraude)</font></p>
+<p><span class="fa fa-circle" style="color:green"></span> <font color="lightgrey">online </font>(fraudulento)</p>
+<p><span class="fa fa-circle" style="color:orange"></span> manutenção / De volta online em breve</p>
 <p><span class="fa fa-circle" style="color:red"></span> offline</p>
 <p><span class="fa fa-globe" style="color:green"></span> Tor</i></p>
-<p><span class="fa fa-star" style="color:red"></span><font color="red"> <b>name</b> </font> Advertisement<p>
-<p><span class="fa fa-star" style="color:red"></span> Partner or banner backlink</p>
-<p><span class="fa fa-star" style="color:green"></span> Partner or backlink';
-$lang['faq_menu_link_question_linkOffline']       = 'A link is offline';
-$lang['faq_menu_link_answer_linkOffline']         = 'If there is a link which seems to be offline, you have the ability to report this site.</p>
-<p>We will review your reported link and mark the site as offline';
-$lang['faq_menu_link_question_addedLink']         = 'I submitted a link, but it is still not visible';
-$lang['faq_menu_link_answer_addedLink']           = 'We verify every submitted link within one week.</p>
-<p>If its still not visible, send us a DM via Twitter or contact us via jabber/icq.';
-$lang['faq_menu_link_question_socialData']       = 'How to get social data?';
-$lang['faq_menu_link_answer_socialData']         = 'If you open a forum link, you may get additional information in the headers bar.</p>
-<p>Complete informations you can get on the <a href="search.php">search</a> site.';
+<p><span class="fa fa-star" style="color:red"></span><font color="red"> <b>nome</b> </font> Publicidade<p>
+<p><span class="fa fa-star" style="color:red"></span> Parceiro ou backlink de banner</p>
+<p><span class="fa fa-star" style="color:green"></span> Parceiro ou backlink';
+$lang['faq_menu_link_question_linkOffline']       = 'O link está offline';
+$lang['faq_menu_link_answer_linkOffline']         = 'Se no caso de haver um link offline, tem a possibilidade de reportar o site.</p>
+<p>Nós iremos rever o link reportado e marcar como offline';
+$lang['faq_menu_link_question_addedLink']         = 'Eu enviei um link, mas não está visivel';
+$lang['faq_menu_link_answer_addedLink']           = 'Nós verificamos o link enviado num prazo de uma semana.</p>
+<p>Se não estiver visivel, envie uma mensagem no Twitter or contacte usando o jabber ou icq.';
+$lang['faq_menu_link_question_socialData']       = 'Como obter data social?';
+$lang['faq_menu_link_answer_socialData']         = 'Se abrir um link de um forum, você poderá obter informação adicional na barra superior.</p>
+<p>Informação completa poderá ser obtida através de <a href="search.php">pesquisa</a> no site.';
 // Privacy
-$lang['faq_menu_privacy']                            = 'Privacy';
-$lang['faq_menu_privacy_question_terms']             = 'Terms';
-$lang['faq_menu_privacy_answer_terms']               = 'By accessing the website at http://link-base.org,</p>
-<p>you are agreeing to be bound by these terms of service,</p>
-<p>all applicable laws and regulations,</p>
-<p>and agree that you are responsible for compliance with any applicable local laws.</p>
-<p>If you do not agree with any of these terms, you are prohibited from using or accessing this site.</p>
-<p>The materials contained in this website are protected by applicable copyright and trademark law.';
-$lang['faq_menu_privacy_question_useLicense']        = 'Use License';
-$lang['faq_menu_privacy_answer_useLicense']          = 'a) Permission is granted to temporarily download one copy of the materials
-(information or software) on LinkBaseORG\'s website for personal, non-commercial transitory viewing only.
-This is the grant of a license, not a transfer of title, and under this license you may not:</p>
-<p>I: modify or copy the materials;</p>
-<p>II: use the materials for any commercial purpose, or for any public display (commercial or non-commercial);</p>
-<p>III: attempt to decompile or reverse engineer any software contained on LinkBaseORG\'s website;</p>
+$lang['faq_menu_privacy']                            = 'Privacidade';
+$lang['faq_menu_privacy_question_terms']             = 'Termos';
+$lang['faq_menu_privacy_answer_terms']               = 'Quando aceder ao website at http://link-base.org,</p>
+<p>o utilizador concorda com estes termos de serviço,</p>
+<p>bem como leis aplicáveis e regulamentação,</p>
+<p>também concorda que você é responsável e está de acordo com as suas leis locais.</p>
+<p>Se não concorda com os termos, você está proibido de usar ou aceder este site.</p>
+<p>Os materials disponiveis neste website são protegidos por direitos de autor e respectivas marcas legais.';
+$lang['faq_menu_privacy_question_useLicense']        = 'Usar Licença';
+$lang['faq_menu_privacy_answer_useLicense']          = 'a) Permissão é permitida temporáriamente para descarregar uma cópia dos materias
+(informação ou software) do site LinkBaseORG\'s para uso pessoal ou para fins não comerciais.
+Esta licença licença não é uma permissão de tranferencia de título. O utilizador não deve:</p>
+<p>I: modificar or copiar os materiais;</p>
+<p>II: usar os materiais para fins commerciais, ou para exposição pública (comercialmente o não);</p>
+<p>III: tentar decompilar or utilizar engenharia reversa em qulquer software disponível no site LinkBaseORG\'s;</p>
 <p>IV: remove any copyright or other proprietary notations from the materials; or</p>
 <p>V: transfer the materials to another person or "mirror" the materials on any other server.</p>
 <p>b) This license shall automatically terminate if you violate any of these restrictions and may be terminated by LinkBaseORG at any time.
