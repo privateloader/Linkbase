@@ -1,6 +1,6 @@
 <?php
 // Global
-$lang['site_error_backText']                = 'Back';
+$lang['site_error_backText']                = 'Test';
 $lang['site_403_errorText']                 = 'Sorry, you don\'t have permission to access this site.';
 $lang['site_404_errorText']                 = 'Oops! Sorry, that page could not be found.';
 $lang['site_500_errorText']                 = 'Sorry, there was an internal error.';
